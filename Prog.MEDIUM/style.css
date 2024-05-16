@@ -1,0 +1,409 @@
+*{font-style: inherit;
+   
+  
+}
+
+.imglog{
+         padding-left: 120px;
+         padding-top: 10px;
+         width: 50px;
+         height: 50px;
+        }
+
+ nav {  padding-right: 10px;
+        margin-top: 101px;
+        border-radius:15px;
+        border:1px solid rgb(178, 170, 170);
+        width: 120px;
+        height:24px;
+        padding:5px 10px 1px 9px;
+        margin: 10px 0px;
+        font-size: 14px;
+        text-align-last: center;
+       
+      } 
+        
+  .profil{
+          width: 35px;
+          height:35px;
+          margin-left: 17px;
+          margin-top: 9px;
+        }
+
+.divlogo{
+          display: flex;
+         }
+
+#arancio{
+          margin-bottom:200px;
+        }
+
+ .navbar{
+          height: 50px;
+          width: 1325px;
+          display: flex;
+          justify-content: space-between;
+        }
+
+
+.navicone{
+          display: flex;
+          gap: 40px;
+          padding:2px 0px 0px 0px;
+         }
+
+  .icone{ 
+          height:23px;
+          width: 23px;
+                           
+        }
+
+.supremoicone{ 
+              margin: left 37px;
+              margin-top: 5px;
+             }    
+ 
+    .divo{
+          display: flex;
+         }
+
+
+   .icone{
+          padding: 8px;
+         }
+
+     .lup{font-size: 20px;
+          display: flex;
+          gap: 10px;
+          font-family: Arial, Helvetica, sans-serif;
+          padding-bottom: 6px;
+        }
+
+      ul{
+         display:flex;
+         list-style:none;
+        }
+
+  main { 
+        display: flex;
+       }
+
+
+  .right{ 
+         padding-top: 60px;
+         padding-left:120px;
+         width:740px;
+         height: 100%;      
+        }
+
+  .hr1{ 
+       margin-bottom:20px ;
+       box-shadow: 1px 1px;
+      }
+
+  #gigio{ 
+         margin-bottom:50px;
+        }       
+
+ .left{    
+       width:370px ;
+       height:100%;
+       padding-right: 170px;
+      }
+
+.imgcard{  
+         margin:4px 4px 4px 30px;
+         width: 215px;
+         height: 150px;
+        }
+   
+.logoexpress{ 
+             width: 22px;
+             height:22px ;
+             margin-top: 15px;
+             padding-right: 6px;
+             border-radius: 15px 15px 15px 15px;
+             }  
+
+
+.parag.express{
+               font-family: Arial, Helvetica, sans-serif;
+               padding-bottom:40px;
+              }
+
+    .divsupremo{ 
+                display: flex;
+                }
+ 
+    .testexpress{ 
+                 margin: 0px;
+                 width: 500px;
+                 height:30px;
+                 padding: 0%;
+                }
+
+    .divexpress{ 
+                display:flex;
+               }
+
+     .iconcard1{
+                width: 23px;
+                height:23px;
+               }
+
+     .iconcard2{
+                width: 23px;
+                height:23px;
+              }
+
+.div-logo-card{
+               display: flex;
+               justify-content: space-between;
+            }
+
+       .icon{
+             margin-right:220px;
+            }
+
+        .pol{ 
+             margin: 0px;
+             padding-bottom: 10px;
+            }    
+ 
+.logocarddestra{
+                display: flex;
+               } 
+
+    .imgmedium{
+               margin-top:60px;
+               width:36px;
+               height:67px;
+              } 
+
+          #hg{
+              margin-top:50px;
+              margin-bottom:55px;
+             }                           
+
+    .divgrid{ 
+              display: grid;
+              place-items: center; 
+              margin-left: 100px;
+             }
+
+     .cardleft{  
+               padding:10px 0px 20px 20px;
+               margin-left:30px ;   
+              } 
+
+.pulsanttwitter{
+                padding-top:6px;
+                margin-top: 13px;
+                width: 160px;
+                height: 15px;
+                border:1px solid rgb(178, 170, 170) ;
+                padding-bottom:15px ;
+                font-size:17px;
+                border-radius:20px;
+                text-align:center;
+                margin-right:0px;
+                margin-left: 40px;  
+              }          
+               
+   .divtwit{
+            margin-left:40px;
+           }
+    
+.paragrafo2card2{
+                 margin-left: 70px;
+                 color: rgb(49, 70, 49);
+                }
+
+     .hrtwitter{
+                margin-bottom:0px;
+                margin-right:30px;
+                margin-top: 60px;
+                width: 220px;
+                padding-left: 26px;
+               } 
+
+       .twit{ 
+             width: 15px;
+             height: 15px;
+            }
+   
+   .h2card2{  
+             border-radius: 20px;         
+             color: rgba(246, 242, 242, 0.395);
+            }
+                        
+.Technology{   
+             border-radius: 25px;
+             padding:3px 10px 2px 19px;
+             background-color: rgba(228, 231, 231, 0.658);
+             height: 20px;
+             width: 78px; 
+             }
+
+     .money{
+            border-radius: 25px;
+            padding:5px 6px 6px 16px ;
+            background-color: rgba(228, 231, 231, 0.658);
+            height: 16px;
+            width: 50px; 
+           }
+
+    .div469{
+            display: flex;
+            gap: 10px; 
+            color: rgb(68, 66, 66);
+            }
+
+    .div461{
+            margin-top: 80px;
+            margin-bottom: 65px;
+            margin-left:100px;
+            padding-left: 30px;
+            }
+
+   .div498{
+           margin-top: 15px;
+           border-radius: 25px;
+           padding:5px 6px 6px 19px ;
+           background-color: rgba(228, 231, 231, 0.658);
+           height: 16px;
+           width: 90px; 
+
+          }
+
+  .div502{
+          margin-top: 15px;
+          border-radius: 25px;
+          padding:5px 6px 6px 19px ;
+          background-color: rgba(228, 231, 231, 0.658);
+          height: 16px;
+          width: 90px;      
+         }
+  
+  .div496{
+          display: flex;
+          gap: 10px;
+          color: rgb(54, 54, 54);
+          }
+   
+  .div509{
+           margin-top: 15px;
+           border-radius: 25px;
+           padding:5px 6px 6px 19px ;
+           background-color: rgba(228, 231, 231, 0.658);
+           height: 16px;
+           width: 90px;
+         }
+
+.div513{
+        margin-top: 15px;
+        border-radius: 25px;
+        padding:5px 6px 6px 19px ;
+        background-color: rgba(228, 231, 231, 0.658);
+        height: 16px;
+        width: 35px;
+         }
+
+.div507{ 
+        display: flex;
+        color: rgb(68, 66, 66);
+       }
+
+.div525{ 
+        width: 100%;
+        height:100%;
+        margin-top: 30px;
+        display:block;
+        }
+           
+    h4 { 
+        margin-bottom:25px;
+        padding-top: 15px;
+        padding-bottom: 0px;
+        margin:0px;
+        border: 0px;
+        }
+
+  .lin23{
+        margin-left:50px;
+        }
+
+   .p537{ 
+        margin-top:2px;
+        color: rgb(48, 47, 47) ;
+        font-size: 15px;
+        padding-top:2px;
+        }   
+          
+ .img532{  
+         margin: 25px 6px;
+         height: 40px;
+         width: 40px;
+         border-radius: 19px 19px 19px 19px;
+        }
+               
+.div525{ 
+        display: flex;
+        padding:0px 4px 0px 20px;
+        margin:0px 10px 0px 100px ;
+       } 
+
+.img564{
+        border-radius: 13px 13px;
+        width: 26px;
+        height: 26px;
+
+        }  
+
+.div563{  
+        display:flex;
+       }  
+
+
+ .img577{
+            margin:15px 2px 4px 5px;
+            width: 20px;
+            height: 20px;
+           }
+.div558{ 
+         margin-top: 80px;
+         margin-left:130px;
+}
+
+  .kok{ margin-left:5px;
+        margin-top: 15px;
+        border-radius: 25px;
+        padding:5px 6px 6px 27px ;
+        background-color: rgba(228, 231, 231, 0.658);
+        height: 16px;
+        width: 60px;             
+       }
+
+ .div600{ 
+         margin: bottom 0px;
+         margin-left: 120px;
+         margin-top:105px;
+         font-size: 14px;
+         font-family: Arial, Helvetica, sans-serif;
+         display: flex;
+         gap:16px;
+         color: rgb(79, 78, 78);
+
+        } 
+
+.div607{ 
+        margin: bottom 0px;
+        margin-left: 120px;
+        margin-top:0px;
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+        display:flex;
+        gap:16px;
+        color: rgb(79, 78, 78);
+       
+        } 

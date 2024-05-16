@@ -1,0 +1,26 @@
+
+       <div class="divexpress">
+
+          <div>
+
+             <h2>
+                 React state management in 2022 return of the redux
+            </h2>
+
+
+            <p class="testexpress">
+               Al the beinning of the year if you told me id be publishing a 
+              recommendation to use Redux I would have laughed in your face yet her...
+           </p>
+
+         </div>
+         
+      <div class="card">
+       
+         <img class="imgcard" src="business.jpeg" alt="immagine business"/>
+
+     </div>
+
+
+
+ </div>
